@@ -22,4 +22,4 @@ Unifying and Simplifying the Web Development.
 
 # Inspiration
 
-A systematic solution of the building blocks for simplifying engineering deserves to be putting into existence!!!
+A systematic way of leveraging the building blocks for simplifying engineering deserves to be putting into existence!!!
