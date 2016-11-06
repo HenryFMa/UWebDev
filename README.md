@@ -22,4 +22,10 @@ Unifying and Simplifying the Web Development.
 
 # Inspiration
 
-A systematic way of leveraging the building blocks for simplifying engineering deserves to be putting into existence!!!
+An evolving systematic way of leveraging the building blocks for simplifying engineering deserves to be in existence!!!
+
+* Inventory of the building blocks, verified in practice, hand-picked and maintained by domain specialists.
+
+* Inventory of sample projects leveraging the building blocks(well-explained of which for what).
+
+* Mechanism for efficiently maintaining and structuring the building blocks.
